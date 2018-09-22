@@ -13,4 +13,5 @@ def meal_choice(meal = meat)
 end
 
 def meal_choice(meal = "meat")
-  
+  return meal 
+end
